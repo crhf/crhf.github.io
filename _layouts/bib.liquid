@@ -101,6 +101,11 @@
       {% endfor %}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
+      {% if entry.author_note %}
+        <br>
+        <small>{{ entry.author_note }}</small>
+      {% endif %}
+
       {%- assign more_authors_hide = more_authors | append: ' more author' -%}
       {% if more_authors > 0 %}
         {%- if more_authors > 1 -%}

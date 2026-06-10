@@ -40,6 +40,9 @@ ninja.data = [{
           section: "News",},{id: "news-autocoderover-our-startup-from-nus-has-been-acquired-by-sonar-press-release-our-team",
           title: 'AutoCodeRover, our startup from NUS, has been acquired by Sonar. [Press Release] [Our...',
           description: "",
+          section: "News",},{id: "news-sonar-has-globally-launched-the-sonarqube-remediation-agent-at-atxsummit-2026-i-am-excited-to-see-our-research-on-autocoderover-evolve-from-an-nus-project-into-a-commercial-product-that-automatically-fixes-and-verifies-code-issues-for-developers-worldwide",
+          title: 'Sonar has globally launched the SonarQube Remediation Agent at ATxSummit 2026. I am...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

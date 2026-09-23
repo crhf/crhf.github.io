@@ -46,6 +46,9 @@ ninja.data = [{
           section: "News",},{id: "news-sonar-has-globally-launched-the-sonarqube-remediation-agent-at-atxsummit-2026-i-am-excited-to-see-our-research-on-autocoderover-evolve-from-an-nus-project-into-a-commercial-product-that-automatically-fixes-and-verifies-code-issues-for-developers-worldwide",
           title: 'Sonar has globally launched the SonarQube Remediation Agent at ATxSummit 2026. I am...',
           description: "",
+          section: "News",},{id: "news-our-paper-autocodesherpa-symbolic-explanations-in-ai-coding-agents-has-been-accepted-to-issta-2026",
+          title: 'Our paper AutoCodeSherpa: Symbolic Explanations in AI Coding Agents has been accepted to...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',

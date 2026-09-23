@@ -18,7 +18,6 @@ announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 10 # leave blank to include all the news in the `_news` folder
-
 ---
 
 Hi! My name is Haifeng RUAN (阮海峰). I am a Postdoctoral Research Fellow in agentic AI at the
@@ -32,7 +31,6 @@ I am actively developing AI coding agents that have a deep understanding of prog
 In the past, I have also worked on finding security vulnerabilities by fuzzing.
 
 I am always open to collaborations and discussions. Feel free to email me for a chat! **:)**
-
 
 <!--Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.-->
 <!---->

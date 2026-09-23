@@ -21,8 +21,9 @@ announcements:
 
 ---
 
-Hi! My name is Haifeng RUAN (阮海峰). I am a PhD student in computer science at the National
-University of Singapore (NUS), advised by Prof. [Abhik Roychoudhury](https://abhikrc.com/).
+Hi! My name is Haifeng RUAN (阮海峰). I am a Postdoctoral Research Fellow in agentic AI at the
+National University of Singapore (NUS). I received my PhD in computer science from NUS in
+September 2026, advised by Prof. [Abhik Roychoudhury](https://abhikrc.com/).
 
 My research interest lies in improving software quality and trustworthiness, by means of
 program testing, analysis, and repair. I am particularly interested in improving

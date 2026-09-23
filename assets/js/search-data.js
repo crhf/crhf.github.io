@@ -46,9 +46,6 @@ ninja.data = [{
           section: "News",},{id: "news-sonar-has-globally-launched-the-sonarqube-remediation-agent-at-atxsummit-2026-i-am-excited-to-see-our-research-on-autocoderover-evolve-from-an-nus-project-into-a-commercial-product-that-automatically-fixes-and-verifies-code-issues-for-developers-worldwide",
           title: 'Sonar has globally launched the SonarQube Remediation Agent at ATxSummit 2026. I am...',
           description: "",
-          section: "News",},{id: "news-i-received-my-phd-in-computer-science-from-nus-in-september-2026-and-started-as-a-postdoctoral-research-fellow-in-agentic-ai-at-the-national-university-of-singapore",
-          title: 'I received my PhD in computer science from NUS in September 2026, and...',
-          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
